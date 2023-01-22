@@ -5,11 +5,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazrul78&label=Profile%20views&color=0e75b6&style=flat" alt="nazrul78" /> </p>
 
-- 🔭 I’m currently working on android & iOS application. [TheCitizen](https://play.google.com/store/apps/details?id=com.ctrendssoftware.thecitizen)
+🔭 I’m currently working on android & iOS application. [TheCitizen](https://play.google.com/store/apps/details?id=com.ctrendssoftware.thecitizen)
 
-- 📫 How to reach me **nnakib78@gmail.com**
+<!-- 📫 How to reach me **nnakib78@gmail.com** -->
 
-- ⚡ Fun fact **I am funny!!**
+✉️ &nbsp;You can send me an email at nnakib78@gmail.com
+
+
+📄 &nbsp; Please have a look at my [Résumé](https://drive.google.com/file/d/1-Fs03Jiji6WrkNCTQAOBq2lRfCBhVaxZ/view) for more details about me.
+
+⚡ Fun fact **I am funny!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
